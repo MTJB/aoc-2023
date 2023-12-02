@@ -1,4 +1,3 @@
-# Python Template 🐍
+# Advent of Code (2023)
 
-Template Python repository using [Poetry](https://python-poetry.org/docs/basic-usage/) for dependency
-management.
+My solutions to the [Advent of Code](https://adventofcode.com) (2023 edition).
