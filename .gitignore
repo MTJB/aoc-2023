@@ -1,7 +1,7 @@
 # JetBrains files
 .idea
 
-.resources/
+resources/
 
 # Ignore mac DS_STORE files
 .DS_Store
